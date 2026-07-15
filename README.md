@@ -1,171 +1,227 @@
-# Samarpita Satapathy - Technical Documentation Portfolio
+<div align="center">
 
-**Associate Technical Writer & Documentation Specialist**  
-*2+ years of experience in enterprise SaaS and on-premise documentation*
+# 📋 Technical Writing
+## Clear Documentation. Confident Users.
 
----
-
-## Table of Contents
-
-- [Overview](#overview)
-- [Core Competencies](#core-competencies)
-- [Technical Stack](#technical-stack)
-- [Documentation Samples](#documentation-samples)
-- [Areas of Expertise](#areas-of-expertise)
-- [Getting Started](#getting-started)
-- [Contact](#contact)
+*Transforming complex technical information into clear, structured, and user-centric documentation.*
 
 ---
 
-## Overview
+### 🎯 Core Principles
+| Structured Content | Reusable Content | Multi-channel Delivery | Better User Experience |
+|:---:|:---:|:---:|:---:|
+| **DITA XML** | **Single-sourcing** | **Multi-format** | **User-centric** |
 
-Technical documentation specialist with 2+ years of experience creating **user-centric documentation** for enterprise SaaS and on-premise applications. I specialize in transforming complex technical information into clear, structured, and easy-to-understand documentation that improves user experience and engagement.
-
-**Current Role:** Associate Technical Writer at OpenText
-
-**Core Focus:**
-- End-to-end documentation ownership
-- Information architecture and content strategy
-- Structured authoring (DITA XML)
-- Docs-as-Code methodologies
+</div>
 
 ---
 
-## Core Competencies
+# Hi, I'm Samarpita Satapathy 👋
 
-### Documentation Types
+**Associate Technical Writer with 2+ years of experience** creating user-centric documentation for enterprise SaaS and on-premise applications.
 
-| Documentation Type | Proficiency Level |
-|---|---|
-| User Guides & Manuals | Expert |
-| Installation & Configuration Guides | Expert |
-| Administrator Guides | Advanced |
-| API Documentation | Advanced |
-| Integration Documentation | Advanced |
-| Release Notes | Advanced |
-| Troubleshooting Guides | Advanced |
-| Knowledge Base Articles | Advanced |
-| Context-Sensitive Help (CSH) | Advanced |
-
-### Specialized Skills
-
-#### Information Architecture
-- Structured content organization
-- Taxonomy development
-- Navigation design
-- Content governance
-
-#### Content Strategy
-- Documentation planning
-- User analysis & personas
-- Consistency management
-- Style guide development
-
-#### Technical Writing
-- User-centered design
-- Complex concept simplification
-- Technical accuracy
-- UX/UI microcopy
+I specialize in transforming complex technical information into clear, structured, and easy-to-understand documentation that improves the user experience and drives product adoption.
 
 ---
 
-## Technical Stack
+## 👤 About Me
 
-### Authoring & Markup Tools
-
-| Category | Tools & Technologies |
-|---|---|
-| **XML/DITA Editors** | Arbortext Editor, Oxygen XML Editor |
-| **DITA Publishing** | MadCap Flare |
-| **Document Authoring** | Microsoft Word |
-| **Markup Languages** | DITA XML, Markdown, HTML (Basics) |
-
-### Version Control & Collaboration
-
-| Category | Tools & Platforms |
-|---|---|
-| **Version Control** | Git, GitLab, GitHub, Perforce |
-| **Project Management** | Jira, ValueEdge |
-
-### Multimedia & Content Creation
-
-| Category | Tools & Software |
-|---|---|
-| **Video Creation** | Camtasia, Adobe Premiere Pro |
-| **Document Processing** | Adobe Acrobat |
+- 🏢 Associate Technical Writer at **OpenText**
+- 📚 2+ years of experience owning end-to-end documentation
+- ☁️ Experienced in SaaS, cloud, and on-premise enterprise products
+- 🔧 Skilled in structured authoring using **DITA XML**
+- 🎨 Passionate about information architecture, content strategy, and minimalism in docs
+- 🤝 Collaborate closely with SMEs, Product Managers, UX Writers, and QA teams
 
 ---
 
-## Documentation Samples
+## 💼 What I Do
 
-This portfolio includes the following documentation templates and samples:
+<table>
+<tr>
+<td align="center" width="25%">
 
-- **[User Guide](./docs/samples/user-guide.md)** - Comprehensive end-user documentation template
-- **[Installation Guide](./docs/samples/installation-guide.md)** - System requirements and setup procedures
-- **[Quick Start Guide](./docs/samples/quick-start-guide.md)** - Expedited onboarding documentation
-- **[API Documentation](./docs/samples/api-documentation.md)** - Technical reference for developers
-- **[Troubleshooting Guide](./docs/samples/troubleshooting-guide.md)** - Issues and resolution procedures
-- **[Release Notes](./docs/samples/release-notes.md)** - Version updates and features
-- **[FAQ](./docs/samples/faq.md)** - Frequently asked questions
-- **[Knowledge Base Articles](./docs/samples/kb-articles.md)** - In-depth topic documentation
+### 📖 User Documentation
+User Guides, Admin Guides, Quick Start Guides
 
-### Reusable Templates
+</td>
+<td align="center" width="25%">
 
-- **[Documentation Template Library](./templates/)** - Reusable templates for various documentation types
-- **[Style Guide](./style-guide.md)** - Corporate style guidelines and best practices
+### ⚙️ Installation & Configuration
+Step-by-step installation and configuration guides
+
+</td>
+<td align="center" width="25%">
+
+### 🔗 Integration Docs
+Integration and deployment documentation
+
+</td>
+<td align="center" width="25%">
+
+### ❓ Context-Sensitive Help
+CSH content and in-product help documentation
+
+</td>
+</tr>
+<tr>
+<td align="center" width="25%">
+
+### 📝 Release Notes
+Clear, concise, and user-focused release notes
+
+</td>
+<td align="center" width="25%">
+
+### 🔍 Troubleshooting Guides
+Issues and resolution procedures
+
+</td>
+<td align="center" width="25%">
+
+### 💡 Knowledge & Support
+KB articles, FAQs, and troubleshooting guides
+
+</td>
+<td align="center" width="25%">
+
+### 🎬 Multimedia Content
+Video tutorials and product demos using Camtasia
+
+</td>
+</tr>
+<tr>
+<td align="center" width="25%">
+
+### 🗂️ Information Architecture
+Content structuring, chunking, and taxonomy
+
+</td>
+<td align="center" width="25%">
+
+### ♻️ Content Reuse
+Single-sourcing and maximizing content reuse
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Areas of Expertise
+## 🛠️ Tools & Technologies
+
+### Authoring Tools
+- **DITA Editors:** Arbortext Editor, Oxygen XML Editor
+- **Publishing:** MadCap Flare
+- **Document Authoring:** Microsoft Word
+- **Markup Languages:** DITA XML, Markdown, HTML (Basics)
+
+### Markup & Languages
+| DITA XML | Markdown | HTML (Basics) |
+|:---:|:---:|:---:|
+| ✅ | ✅ | ✅ |
+
+### Version Control
+| Git | GitLab | Perforce | GitHub |
+|:---:|:---:|:---:|:---:|
+| ✅ | ✅ | ✅ | ✅ |
+
+### Project Management / Tracking
+| Jira | ValueEdge |
+|:---:|:---:|
+| ✅ | ✅ |
+
+### Multimedia & Other Tools
+| Camtasia | Adobe Premiere Pro | Adobe Acrobat | Microsoft PowerPoint |
+|:---:|:---:|:---:|:---:|
+| ✅ | ✅ | ✅ | ✅ |
+
+---
+
+## 📁 Featured Repositories
+
+- 📂 **[technical-writing-portfolio](https://github.com/samarpitasatapathy22-gh/samarpitasatapathy.github.io)**  
+  A collection of technical writing samples and documentation projects.
+
+- 📄 **[user-guide-sample](https://github.com/samarpitasatapathy22-gh/samarpitasatapathy.github.io)**  
+  Sample user guide for a fictional SaaS application.
+
+- 🔌 **[api-documentation-sample](https://github.com/samarpitasatapathy22-gh/samarpitasatapathy.github.io)**  
+  API documentation with endpoints, examples, and error handling.
+
+- 📋 **[release-notes-sample](https://github.com/samarpitasatapathy22-gh/samarpitasatapathy.github.io)**  
+  Release notes samples and templates.
+
+- 📚 **[documentation-templates](https://github.com/samarpitasatapathy22-gh/samarpitasatapathy.github.io)**  
+  Reusable documentation templates and checklists.
+
+---
+
+## 🎓 Currently Learning
+
+- 📚 Docs-as-Code with Markdown
+- 🐱 GitHub for Technical Writers
+- 🎨 Advanced DITA and CSS
+- 🤖 AI tools for technical writing
+
+---
+
+## 🚀 Core Competencies
 
 ### Documentation Best Practices
-
-- **Structured Authoring:** DITA XML implementation and methodology
-- **Content Reusability:** Single-sourcing and modular documentation strategies
-- **Information Architecture:** Logical organization and content findability
-- **Content Strategy:** Planning, governance, and consistency
+- ✅ **Structured Authoring** – DITA XML implementation and methodology
+- ✅ **Content Reusability** – Single-sourcing and modular documentation strategies
+- ✅ **Information Architecture** – Logical organization and content findability
+- ✅ **Content Strategy** – Planning, governance, and consistency
 
 ### Technical Communication
-
-- Complex technical concept simplification
-- Technical accuracy with user accessibility
-- Cross-functional SME collaboration
-- Quality assurance and peer review
+- ✅ Complex technical concept simplification
+- ✅ Technical accuracy with user accessibility
+- ✅ Cross-functional SME collaboration
+- ✅ Quality assurance and peer review
 
 ### Emerging Technologies
-
-- **Docs-as-Code:** Markdown-based documentation workflows
-- **Version Control:** Git-based documentation versioning
-- **CI/CD Integration:** Continuous documentation integration
-
----
-
-## Getting Started
-
-### Prerequisites
-
-- Basic knowledge of Markdown or DITA XML
-- Familiarity with Git and GitHub
-- Text editor (VS Code, Oxygen Editor, or similar)
-
-### Exploring the Portfolio
-
-1. **Review Documentation Samples:** Start with the `docs/samples/` directory to view various documentation types
-2. **Check Templates:** Browse `templates/` for reusable documentation templates
-3. **Reference Style Guide:** Consult `style-guide.md` for writing standards and best practices
+- ✅ **Docs-as-Code** – Markdown-based documentation workflows
+- ✅ **Version Control** – Git-based documentation versioning
+- ✅ **CI/CD Integration** – Continuous documentation integration
 
 ---
 
-## Contact Information
+## 📖 Documentation Samples
 
-**LinkedIn:** [linkedin.com/in/samarpita-satapathy/](https://www.linkedin.com/in/samarpita-satapathy/)
+Browse my documentation portfolio in the `/docs/samples/` directory:
 
-**Email:** [samarpitasatapathy22@gmail.com](mailto:samarpitasatapathy22@gmail.com)
+- 📘 **[User Guide](./docs/samples/user-guide.md)** – Comprehensive end-user documentation template
+- 🔧 **[Installation Guide](./docs/samples/installation-guide.md)** – System requirements and setup procedures
+- 🚀 **[Quick Start Guide](./docs/samples/quick-start-guide.md)** – Expedited onboarding documentation
+- 🔌 **[API Documentation](./docs/samples/api-documentation.md)** – Technical reference for developers
+- 🔍 **[Troubleshooting Guide](./docs/samples/troubleshooting-guide.md)** – Issues and resolution procedures
+- 📝 **[Release Notes](./docs/samples/release-notes.md)** – Version updates and features
+- ❓ **[FAQ](./docs/samples/faq.md)** – Frequently asked questions
+- 💡 **[Knowledge Base Articles](./docs/samples/kb-articles.md)** – In-depth topic documentation
+
+### Reusable Templates
+- 📚 **[Documentation Template Library](./templates/)** – Reusable templates for various documentation types
+- 📋 **[Style Guide](./style-guide.md)** – Corporate style guidelines and best practices
 
 ---
 
-## License
+## 📞 Connect With Me
 
-This documentation portfolio is provided as-is for review and reference purposes.
+<div align="center">
 
-**Last Updated:** July 2026
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samarpita-satapathy/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samarpitasatapathy22@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samarpitasatapathy22-gh)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 *"Great documentation doesn't just explain a product—it empowers people to use it with confidence."*
+
+**Last Updated:** July 2026 | [License](./LICENSE)
+
+</div>
