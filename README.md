@@ -1,6 +1,7 @@
 <div align="center">
 
 # 📋 Technical Writing
+## Clear Documentation. Confident Users.
 
 *Transforming complex technical information into clear, structured, and user-centric documentation.*
 
@@ -116,24 +117,25 @@ Single-sourcing and maximizing content reuse
 - **Markup Languages:** DITA XML, Markdown, HTML (Basics)
 
 ### Markup & Languages
-| DITA XML | Markdown | HTML (Basics) |
-|:---:|:---:|:---:|
-| ✅ | ✅ | ✅ |
+- **DITA XML** ✅
+- **Markdown** ✅
+- **HTML (Basics)** ✅
 
 ### Version Control
-| Git | GitLab | Perforce | GitHub |
-|:---:|:---:|:---:|:---:|
-| ✅ | ✅ | ✅ | ✅ |
+- **Git** ✅
+- **GitLab** ✅
+- **Perforce** ✅
+- **GitHub** ✅
 
 ### Project Management / Tracking
-| Jira | ValueEdge |
-|:---:|:---:|
-| ✅ | ✅ |
+- **Jira** ✅
+- **ValueEdge** ✅
 
 ### Multimedia & Other Tools
-| Camtasia | Adobe Premiere Pro | Adobe Acrobat | Microsoft PowerPoint |
-|:---:|:---:|:---:|:---:|
-| ✅ | ✅ | ✅ | ✅ |
+- **Camtasia** ✅
+- **Adobe Premiere Pro** ✅
+- **Adobe Acrobat** ✅
+- **Microsoft PowerPoint** ✅
 
 ---
 
