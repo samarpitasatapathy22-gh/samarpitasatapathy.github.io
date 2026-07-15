@@ -17,7 +17,7 @@
 
 # Hi, I'm Samarpita Satapathy 👋
 
-**Associate Technical Writer with 2+ years of experience** creating user-centric documentation for enterprise SaaS and on-premise applications.
+*Associate Technical Writer with 2+ years of experience creating user-centric documentation for enterprise SaaS and on-premise applications.
 
 I specialize in transforming complex technical information into clear, structured, and easy-to-understand documentation that improves the user experience and drives product adoption.
 
@@ -138,25 +138,6 @@ Single-sourcing and maximizing content reuse
 
 ---
 
-## 📁 Featured Repositories
-
-- 📂 **[technical-writing-portfolio](https://github.com/samarpitasatapathy22-gh/samarpitasatapathy.github.io)**  
-  A collection of technical writing samples and documentation projects.
-
-- 📄 **[user-guide-sample](https://github.com/samarpitasatapathy22-gh/samarpitasatapathy.github.io)**  
-  Sample user guide for a fictional SaaS application.
-
-- 🔌 **[api-documentation-sample](https://github.com/samarpitasatapathy22-gh/samarpitasatapathy.github.io)**  
-  API documentation with endpoints, examples, and error handling.
-
-- 📋 **[release-notes-sample](https://github.com/samarpitasatapathy22-gh/samarpitasatapathy.github.io)**  
-  Release notes samples and templates.
-
-- 📚 **[documentation-templates](https://github.com/samarpitasatapathy22-gh/samarpitasatapathy.github.io)**  
-  Reusable documentation templates and checklists.
-
----
-
 ## 🎓 Currently Learning
 
 - 📚 Docs-as-Code with Markdown
@@ -179,30 +160,6 @@ Single-sourcing and maximizing content reuse
 - ✅ Technical accuracy with user accessibility
 - ✅ Cross-functional SME collaboration
 - ✅ Quality assurance and peer review
-
-### Emerging Technologies
-- ✅ **Docs-as-Code** – Markdown-based documentation workflows
-- ✅ **Version Control** – Git-based documentation versioning
-- ✅ **CI/CD Integration** – Continuous documentation integration
-
----
-
-## 📖 Documentation Samples
-
-Browse my documentation portfolio in the `/docs/samples/` directory:
-
-- 📘 **[User Guide](./docs/samples/user-guide.md)** – Comprehensive end-user documentation template
-- 🔧 **[Installation Guide](./docs/samples/installation-guide.md)** – System requirements and setup procedures
-- 🚀 **[Quick Start Guide](./docs/samples/quick-start-guide.md)** – Expedited onboarding documentation
-- 🔌 **[API Documentation](./docs/samples/api-documentation.md)** – Technical reference for developers
-- 🔍 **[Troubleshooting Guide](./docs/samples/troubleshooting-guide.md)** – Issues and resolution procedures
-- 📝 **[Release Notes](./docs/samples/release-notes.md)** – Version updates and features
-- ❓ **[FAQ](./docs/samples/faq.md)** – Frequently asked questions
-- 💡 **[Knowledge Base Articles](./docs/samples/kb-articles.md)** – In-depth topic documentation
-
-### Reusable Templates
-- 📚 **[Documentation Template Library](./templates/)** – Reusable templates for various documentation types
-- 📋 **[Style Guide](./style-guide.md)** – Corporate style guidelines and best practices
 
 ---
 
