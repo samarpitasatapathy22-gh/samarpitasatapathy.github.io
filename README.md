@@ -1,7 +1,6 @@
 <div align="center">
 
 # 📋 Technical Writing
-## Clear Documentation. Confident Users.
 
 *Transforming complex technical information into clear, structured, and user-centric documentation.*
 
