@@ -30,7 +30,7 @@ I specialize in transforming complex technical information into clear, structure
 - ☁️ Experienced in SaaS, cloud, and on-premise enterprise products
 - 🔧 Skilled in structured authoring using **DITA XML**
 - 🎨 Passionate about information architecture, content strategy, and minimalism in docs
-- 🤝 Collaborate closely with SMEs, Product Managers, UX Writers, and QA teams
+- 🤝 Collaborate closely with SMEs, Product Managers, and QA teams
 
 ---
 
