@@ -6,6 +6,17 @@ I specialize in transforming complex technical information into clear, structure
 
 ---
 
+## 📑 Quick Navigation
+
+- [About Me](#-about-me)
+- [Technical Writing Skills](#-technical-writing-skills)
+- [Tools & Technologies](#-tools--technologies)
+- [Featured Projects](#-featured-projects)
+- [What I Enjoy](#-what-i-enjoy)
+- [Connect With Me](#-connect-with-me)
+
+---
+
 ## 👩‍💻 About Me
 
 - 📝 Associate Technical Writer at OpenText
