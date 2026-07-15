@@ -1,25 +1,54 @@
+<div style="background: linear-gradient(135deg, #0F172A 0%, #1E293B 100%); padding: 40px 20px; border-radius: 12px; border: 1px solid #E2E8F0; margin-bottom: 30px;">
+
 <div align="center">
 
-# 📋 Technical Writing
+# 📘 Technical Documentation Portfolio
+## Version 2.0
 
-*Transforming complex technical information into clear, structured, and user-centric documentation.*
+<img src="https://img.shields.io/badge/Status-Active-22C55E?style=flat-square" alt="Status">
+<img src="https://img.shields.io/badge/Focus-Documentation-2563EB?style=flat-square" alt="Focus">
+<img src="https://img.shields.io/badge/Expertise-Technical%20Writing-0F172A?style=flat-square&color=2563EB" alt="Expertise">
 
 ---
 
-### 🎯 Core Principles
-| Structured Content | Reusable Content | Multi-channel Delivery | Better User Experience |
-|:---:|:---:|:---:|:---:|
-| **DITA XML** | **Single-sourcing** | **Multi-format** | **User-centric** |
+### 👋 Samarpita Satapathy
+**Associate Technical Writer**
+
+*Creating documentation that turns complex software into intuitive experiences.*
+
+</div>
 
 </div>
 
 ---
 
-# Hi, I'm Samarpita Satapathy 👋
+## 🎯 Quick Navigation
 
-*Associate Technical Writer with 2+ years of experience creating user-centric documentation for enterprise SaaS and on-premise applications.
+| Getting Started | Installation | User Guides | Configuration | API Reference | Release Notes | Troubleshooting |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 📖 | 🔧 | 📚 | ⚙️ | 🔌 | 📝 | 🔍 |
 
-I specialize in transforming complex technical information into clear, structured, and easy-to-understand documentation that improves the user experience and drives product adoption.
+---
+
+## 📋 Welcome
+
+This portfolio showcases documentation created using **structured authoring principles** and **docs-as-code workflows**.
+
+### ✅ What You'll Find
+
+- **User Guides** – Clear, step-by-step instructions for end users
+- **Installation Guides** – Complete setup and deployment documentation
+- **API Documentation** – Technical reference for developers
+- **Release Notes** – Concise, user-focused feature announcements
+- **Troubleshooting Guides** – Solutions for common issues
+- **Configuration Docs** – Admin and configuration procedures
+- **Knowledge Base Articles** – FAQs and best practices
+
+---
+
+## 🛠️ Tech Stack
+
+**DITA XML** • **Markdown** • **Arbortext** • **MadCap Flare** • **Git** • **Docs-as-Code** • **HTML** • **GitHub**
 
 ---
 
